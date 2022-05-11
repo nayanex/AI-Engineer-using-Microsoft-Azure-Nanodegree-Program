@@ -124,3 +124,5 @@ ENV/
 
 # azure
 .azure
+
+git@github.com:nayanex/AI-Engineer-using-Microsoft-Azure-Nanodegree-Program.git
