@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 tmp/
 pgdata/
 sha/
@@ -11,18 +12,26 @@ docker-compose.override.yml
 celerybeat-schedule
 
 ### Python ###
+=======
+>>>>>>> 43b9718519bb076fbca2d35b9a602d93c1a61e2c
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+<<<<<<< HEAD
 .pytest_cache/
+=======
+>>>>>>> 43b9718519bb076fbca2d35b9a602d93c1a61e2c
 
 # C extensions
 *.so
 
 # Distribution / packaging
 .Python
+<<<<<<< HEAD
 env/
+=======
+>>>>>>> 43b9718519bb076fbca2d35b9a602d93c1a61e2c
 build/
 develop-eggs/
 dist/
@@ -35,9 +44,18 @@ parts/
 sdist/
 var/
 wheels/
+<<<<<<< HEAD
 *.egg-info/
 .installed.cfg
 *.egg
+=======
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+>>>>>>> 43b9718519bb076fbca2d35b9a602d93c1a61e2c
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -52,14 +70,25 @@ pip-delete-this-directory.txt
 # Unit test / coverage reports
 htmlcov/
 .tox/
+<<<<<<< HEAD
+=======
+.nox/
+>>>>>>> 43b9718519bb076fbca2d35b9a602d93c1a61e2c
 .coverage
 .coverage.*
 .cache
 nosetests.xml
 coverage.xml
+<<<<<<< HEAD
 *,cover
 .hypothesis/
 results.xml
+=======
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+>>>>>>> 43b9718519bb076fbca2d35b9a602d93c1a61e2c
 
 # Translations
 *.mo
@@ -68,6 +97,11 @@ results.xml
 # Django stuff:
 *.log
 local_settings.py
+<<<<<<< HEAD
+=======
+db.sqlite3
+db.sqlite3-journal
+>>>>>>> 43b9718519bb076fbca2d35b9a602d93c1a61e2c
 
 # Flask stuff:
 instance/
@@ -85,6 +119,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+<<<<<<< HEAD
 # pyenv
 .python-version
 
@@ -101,10 +136,49 @@ ENV/
 
 # Spyder project settings
 .spyderproject
+=======
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+>>>>>>> 43b9718519bb076fbca2d35b9a602d93c1a61e2c
 
 # Rope project settings
 .ropeproject
 
+<<<<<<< HEAD
 # End of https://www.gitignore.io/api/python
 
 # Jetbrains (PyCharm)
@@ -126,3 +200,15 @@ ENV/
 .azure
 
 git@github.com:nayanex/AI-Engineer-using-Microsoft-Azure-Nanodegree-Program.git
+=======
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+>>>>>>> 43b9718519bb076fbca2d35b9a602d93c1a61e2c
