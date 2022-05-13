@@ -52,14 +52,14 @@ If you want to download the Jupyter Notebook and work on it locally instead, you
 
 Here are the commands for installing the Azure Core and service-specific Python SDKs:
 
-Azure Core Python SDK: `pip install azure-core`
-Azure Cognitive Services: `pip install azure-mgmt-cognitiveservices`
-Azure Form Recognizer: `pip install azure-ai-formrecognizer`
-Azure Face service: `pip install azure-cognitiveservices-vision-face`
-Azure Computer Vision: `pip install azure-cognitiveservices-vision-computervision`
-Azure Custom Vision: `pip install azure-cognitiveservices-vision-customvision`
-Azure Video Analyzer: `pip install azure-mgmt-videoanalyzer`
-Video Indexer third-party SDK: `pip install video-indexer`
+* Azure Core Python SDK: `pip install azure-core`
+* Azure Cognitive Services: `pip install azure-mgmt-cognitiveservices`
+* Azure Form Recognizer: `pip install azure-ai-formrecognizer`
+* Azure Face service: `pip install azure-cognitiveservices-vision-face`
+* Azure Computer Vision: `pip install azure-cognitiveservices-vision-computervision`
+* Azure Custom Vision: `pip install azure-cognitiveservices-vision-customvision`
+* Azure Video Analyzer: `pip install azure-mgmt-videoanalyzer`
+* Video Indexer third-party SDK: `pip install video-indexer`
 
 **Note:** You may need to install other third-party packages depending on each individual Jupiter Notebook you will be using.
 
