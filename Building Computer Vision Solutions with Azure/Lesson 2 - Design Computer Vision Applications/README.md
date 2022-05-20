@@ -61,9 +61,9 @@ Search and create a Face API using the following basic configuration:
 **Section**	| **Field**	| **Value**
 ------------|-----------|-----------
 **Basics**	| Resource Group | Use existing
-|Region 	| sUse a consistent value, say East US 2
-|Name	| Your choice
-|Pricing tier	| Free
+ |Region 	| Use a consistent value, say East US 2
+ | |Name	| Your choice
+ | |Pricing tier	| Free
 
 Leave the remaining section/fields as default and click on the "Review & Create" button. On successful validation, create the Face API resource.
 
@@ -76,4 +76,7 @@ Use a similar configuration to create other Cognitive Service resources.
 
 ![Try creating the Computer vision and Custom vision resources](https://video.udacity-data.com/topher/2022/April/62540969_screenshot-2022-04-11-at-3.33.24-pm/screenshot-2022-04-11-at-3.33.24-pm.jpeg)
 
+## VSCode Regular Expression
+
+https://docs.microsoft.com/en-us/visualstudio/ide/using-regular-expressions-in-visual-studio?view=vs-2022
 
