@@ -26,7 +26,7 @@ Here are the key stakeholders in this pipeline:
 * **You, the AI engineer:** Mostly focus on completing machine learning training and generating the final business-ready model. You will be involved in all 3 stages of the ML pipeline and work with the following 3 teams listed below.
 * **Data engineering team:** Responsible for data generation and collection and making sure the data is ready for machine learning. This team mostly focuses on data preparation.
 * **DevOps team, or MLOps:** Combining DevOps with machine learning process management, this team ensures your machine learning training process is optimal and meets the speed required for completing the tasks. This team mostly focuses on model training.
-* **Business team: **Look at the model performance through various metrics and confirm if the model is ready for the business to consume. This team will eventually use the results from the model. This team mostly focuses on model consumption and monitoring.
+* **Business team:** Look at the model performance through various metrics and confirm if the model is ready for the business to consume. This team will eventually use the results from the model. This team mostly focuses on model consumption and monitoring.
 
 ## Jupyter Notebook Workspace Instructions
 
